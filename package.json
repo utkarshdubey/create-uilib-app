@@ -1,0 +1,9 @@
+{
+  "name": "create-uilib-app",
+  "version": "1.0.0",
+  "description": "Create UILib App.",
+  "main": "index.js",
+  "repository": "https://github.com/utkarshdubey/create-uilib-app",
+  "author": "Utkarsh Dubey",
+  "license": "MIT"
+}
